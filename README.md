@@ -1,3 +1,4 @@
+![Supriya Chilwante](https://github.com/supriyachilwante/supriyachilwante/blob/main/Supriya_Chilwante.gif)
 <h1 align="center">Hi 👋, I'm Supriya Chilwante</h1>
 <h3 align="center">A Passionate Java enthusiast and aspiring developer embarking on a coding journey, committed to achieving excellence in the craft of code.</h3>
 
