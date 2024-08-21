@@ -1,6 +1,6 @@
 ![Supriya Chilwante](https://github.com/supriyachilwante/supriyachilwante/blob/main/Supriya_Chilwante.gif)
 
-<h1 align="center"> 🌟 Software Developer 💻💡🚀 </h1>
+<h3 align="center"> 🌟 Software Developer 💻💡🚀 </h3>
 
 [![](https://visitcount.itsvg.in/api?id=supriyachilwante&icon=8&color=12)](https://visitcount.itsvg.in)
 ## 💫 About Me:
