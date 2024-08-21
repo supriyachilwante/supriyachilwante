@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=supriyachilwante&icon=8&color=12)](https://visitcount.itsvg.in)
 ## ✨ About Me :
 
-💻 Computer Engineering Grad
+🎓 Computer Engineering Grad
 
 💡 Creative Soul | Drawing, music, and travel
 
